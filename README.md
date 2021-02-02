@@ -1,0 +1,2 @@
+# androidnewsapp
+Ultimate News App is a mobile system which run under Android platform that used for your own Guide application. With powerful features and beautiful design and Responsive Admin Panel can manage Guides,categories, users,notifications,lanuages and others. This application created by Android studio for client side and then Php/MySQL for Admin side. Run under Android platform which is the most popular operating system in the world. By using this application you can save your money and time in creating application for your own Guide application.
